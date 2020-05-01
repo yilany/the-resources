@@ -11,4 +11,8 @@ If and when we build something with the canvas API, here are some useful links.
 * their quick intro to LTI tool development is [here](https://www.eduappcenter.com/docs/basics/index).
 * and the longer docs are [here](http://www.imsglobal.org/activity/learning-tools-interoperability)
 * [another great page on using the Canvas APIs](https://community.canvaslms.com/docs/DOC-14390-canvas-apis-getting-started-the-practical-ins-and-outs-gotchas-tips-and-tricks#jive_content_id_Tips_for_getting_started_and_some_useful_resources) from the canvas community site.
-*
+* guide to Canvas's [GraphQL API](https://canvas.instructure.com/doc/api/file.graphql.html), which seems to be where things are headed
+* a [python wrapper around the Canvas API](https://github.com/ucfopen/canvasapi)
+* tutorial video on API Calls
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g8XRYqzj6Qo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
