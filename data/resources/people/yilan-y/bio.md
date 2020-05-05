@@ -1,6 +1,5 @@
 # Yilan Yang
-
-![](https://files.slack.com/files-pri/T0HTW3H0V-F0139LGM336/img_5022.jpg)
+![](https://files.slack.com/files-pri/T0HTW3H0V-F013G6G60BB/img_5022_2__1_.jpg?pub_secret=8540b2147f)
 
 ## Tools I Work With
 * Cinema 4D
